@@ -21,7 +21,7 @@
 
 Each member of the team should type their full name in the appropriate slot of the table to acknowledge agreement:
 
-| Who           |
-|:--------------|
-| Full Name     |
-| Full Name     |
+| Who            |
+|:---------------|
+| Nao Yanase     |
+| Chris Macdonald|
