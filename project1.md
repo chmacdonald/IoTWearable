@@ -11,18 +11,20 @@ When I was younger, my grandmother who was suffering from alzheimer's escaped ou
 Yes, the cost to develope, deploy, and maintain our project will be worth it, because this solution will be used everyday by people who cannot help themselves in many instances.
 
 ***5. What hardware would be needed for your project?***
-We will need a GPS tracker,
+We will need a GPS tracker, maybe a gyroscope or vibration sensors to detect falls, temperature sensor, perhaps a heartbeat sensor.
 
 ***6. Explain how an embedded system ("thing(s)") is vital to this work:***
-There needs to be sensors the detect the motions and send data to the lights to turn on and off.
+The needs to be sensors and a tracking device on the person at all times and set to a centeral location that is excessable to all parties involved.
 
 ***7. Explain the role of a graphical user interface to this work:***
+The GUI would be a map with the persons location and the vitals of the person.
 
 ***8. Explain the role of networking to this work:***
+The network would need to be cellular or function of a cell phones ability to transmit a wifi signal so that the device is trackable when away from traditional wifi.
 
 ***9. Does this idea meet all requirements:***
 
-- [ ] One or more embedded devices
-- [ ] Use of sensors and feedback
-- [ ] Graphical user interface for some features
-- [ ] Well motivated use of networking.    
+- [X] One or more embedded devices
+- [X] Use of sensors and feedback
+- [X] Graphical user interface for some features
+- [X] Well motivated use of networking.    
